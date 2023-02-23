@@ -1,0 +1,73 @@
+.uber-button {
+    background-color: black;
+    color: white;
+    height: 32px;
+    width: 115px;
+    margin: 15px;
+}
+
+.amazon-button {
+    background-color: rgb(255, 216, 20);
+    height: 30px;
+    width: 160px;
+    border-radius: 15px;
+    border: none;
+    margin-left: 20px;
+    margin-right: 20px;
+}
+
+.github-button {
+    color: white;
+    font-weight: bold;
+    background-color: rgb(46, 164, 79);
+    border: none;
+    height: 34px;
+    width: 100px;
+    border-radius: 6px;
+    margin-right: 20px;
+}
+
+.bootstrap1-button {
+    background-color: rgb(121, 82, 179);
+    color: white;
+    font-weight: bold;
+    border: none;
+    border-radius: 3px;
+    height: 32px;
+    width: 110px;
+
+}
+.bootstrap2-button {
+    color: rgb(108, 117, 125);
+    font-weight: bold;
+    background-color: white;
+    height: 32px;
+    width: 110px;
+    border-color: rgb(108, 117, 125);
+    border: solid;
+    border-width: 1px;
+    border-radius: 2px;
+    margin-left: 10px;
+}
+.linkedln-button {
+    margin-top: 30px;
+    background-color: rgb(10, 102, 194);
+    color: white;
+    font-weight: bold;
+    width: 220px;
+    height: 36px;
+    border-radius: 17px;
+    border: none;
+}
+.linkedln-save-button {
+    background-color: white;
+    color: rgb(10, 102, 194);
+    border-color: rgb(10, 102, 194);
+    border: solid;
+    border-width: 1px;
+    height: 36px;
+    width: 80px;
+    font-weight: bold;
+    border-radius: 17px;
+    margin-left: 10px;
+}

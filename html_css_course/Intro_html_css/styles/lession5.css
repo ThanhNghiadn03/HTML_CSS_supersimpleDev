@@ -1,0 +1,161 @@
+.p-5a {
+    font-family: Tahoma;
+    font-size: 20px;
+    font-weight: bold;
+}
+.p-5b1 {
+    font-family: Arial;
+    font-size: 23px;
+    font-weight: bold;
+    width: 320px;
+    line-height: 25px;
+    margin-top: 80px;
+}
+.p-5c-heading {
+    /* margin-right: 200px; */
+    font-size: 15px;
+    font-weight: bold;
+    font-family: verdana;
+    margin-top: 80px;
+    margin-bottom: 2px;
+}
+.p-5c-intro {
+    /* margin-right: 300px; */
+    margin-top: 0px;
+    margin-bottom: 0px;
+    font-size: 14px;
+    color: gray;
+    font-family: Verdana;
+}
+.p-5c-des {
+    font-size: 13px;
+    font-family: Verdana;
+    width: 250px;
+    margin-top: 18px;
+    margin-bottom: 18px;
+}
+.p-5c-button {
+    color: white;
+    background-color: rgb(21, 126, 21);
+    border: none;
+    padding: 8px 12px;
+    border-radius: 3px;
+}
+.p-5d-heading {
+    margin-top: 80px;
+    font-size: 22px;
+    font-family: Arial;
+    font-weight: bold;
+    margin-bottom: 15px;
+}
+.p-5d-intro {
+    font-size: 11px;
+    font-family: Arial;
+    width: 318px;
+    text-align: center;
+    margin-top: 0px;
+    margin-bottom: 0px;
+}
+.p-5d-link {
+    margin-top: 15px;
+    font-size: 11px;
+    font-family: Arial;
+    color: rgb(64, 131, 207);
+    width: 318px;
+    text-align: center;
+}
+.new-line {
+    width: 280px;
+    text-align: center;
+    font-size: 12px;
+    font-family: Arial;
+    font-weight: bold;
+    color: rgb(230, 131, 11);
+    margin-bottom: 5px;
+}
+.name-line {
+    width: 280px;
+    text-align: center;
+    font-family: Arial;
+    font-size: 20px;
+    font-weight: bold;
+    margin: 0px 0px;
+}
+.heading-line {
+    font-family: Arial;
+    font-weight: bold;
+    font-size: 30px;
+    margin-top: 9px;
+    margin-bottom: 5px;
+
+}
+.time-line {
+    font-family: Arial;
+    width: 280px;
+    text-align: center;
+    font-size: 14px;
+    margin-top: 9px;
+    margin-bottom: 9px;
+}
+.buy-button {
+    margin-left: 120px;
+    color: white;
+    background-color: rgb(56, 130, 199);
+    border: none;
+    border-radius: 15px;
+    padding: 5px 10px;
+}
+
+.money,.changed-today,.changed-hours {
+    font-family: Arial;
+}
+.money {
+    margin-top: 50px;
+    margin-bottom: 8px;
+    font-size: 35px;
+}
+.usd {
+    font-size: 16px;
+    color: rgb(116, 114, 114);
+}
+.changed-today {
+    margin-top: 8px;
+    margin-bottom: 8px;
+    color: rgb(6, 92, 6);
+    font-size: 16px;
+}
+.changed-hours {
+    margin-top: 8px;
+    margin-bottom: 8px;
+    color: rgb(116, 114, 114);
+    font-size: 16px;
+}
+.descrease-hours {
+    color: rgb(226, 13, 13);
+    font-size: 16px;
+}
+.chanel, .post1, .post2 {
+    font-family: Arial;
+}
+.chanel {
+    font-weight: bold;
+    margin-top: 50px;
+    margin-bottom: 0px;
+}
+.status {
+    color: gray;
+    font-weight: normal;
+}
+.link-post {
+    color: rgb(42, 196, 216);
+}
+.post1 {
+    width: 509px;
+    margin-top: 8px;
+    margin-bottom: 20px;
+    line-height: 23px;
+}
+.post2 {
+    margin-top: 16px;
+    margin-bottom: 16px;
+}

@@ -1,0 +1,45 @@
+.amazon-link {
+    color: rgb(8, 146, 170);
+    transition: color 0.15s;
+}
+
+.amazon-link:hover {
+    color: rgb(224, 107, 11);
+}
+
+.add-button {
+    background-color: rgb(255, 216, 20);
+    /* width: 120px;
+    height: 30px; */
+    padding: 9px 23px;
+    border: none;
+    border-radius: 15px;
+    margin-right: 10px;
+    cursor: pointer;
+}
+
+.add-button:active {
+    opacity: 0.6;
+}
+
+.add-button:hover {
+    background-color: rgb(238, 202, 21);
+}
+
+.buy-button {
+    background-color: rgb(255, 164, 28);
+    /* width: 115px;
+    height: 30px; */
+    padding: 9px 23px;
+    border: none;
+    border-radius: 15px;
+    cursor: pointer;
+}
+
+.buy-button:hover {
+    background-color: rgb(238, 153, 26);
+}
+
+.buy-button:active {
+    opacity: 0.6;
+}

@@ -1,0 +1,51 @@
+.back-button {
+    padding: 10px 9px;
+    margin-right: 7px;
+}
+.number-page {
+    border: none;
+    background-color: white;
+    text-decoration: underline;
+}
+.next-button {
+    margin-left: 7px;
+    padding: 10px 9px;
+}
+.stretch-button {
+    border: none;
+    background-color: green;
+    color: white;
+    padding: 3px 8px;
+    cursor: pointer;
+    transition: padding 0.5s;
+}
+.stretch-button:hover {
+    padding: 10px 25px;
+}
+.shadow-button {
+    padding: 6px 10px;
+    background-color: green;
+    color: white;
+    border: none;
+    cursor: pointer;
+    box-shadow: 3px 3px 2px rgba(161, 155, 155,0.9);
+}
+.shadow-button:active {
+    margin-top: 3px;
+    margin-left: 3px;
+    box-shadow: none;
+}
+.number-button {
+    padding: 8px 15px;
+    background-color: green;
+    color: white;
+    border: none;
+    margin-right: 10px;
+    margin-left: 10px;
+    cursor: pointer;
+    transition: padding 1s , margin 1s;
+}
+.number-button:hover {
+    padding: 8px 20px;
+    margin: 0px 0px;
+}
