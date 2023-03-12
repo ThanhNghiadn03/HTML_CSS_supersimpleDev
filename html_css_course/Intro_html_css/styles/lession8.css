@@ -1,0 +1,28 @@
+.first-input {
+    display: block;
+    margin-bottom: 4px;
+}
+.para-line {
+    width: 200px;
+    display: inline-block;
+}
+.button {
+    vertical-align: 18px;
+}
+.img-google {
+    display: block;
+    margin-top: 50px;
+    margin-bottom: 20px;
+    margin-left: 300px;
+}
+.search-google {
+    height: 46px;
+    width: 584px;
+    padding: 0px 15px;
+    border-radius: 46px;
+    font-size: 15px;
+    border: none;
+    box-shadow: 0.5px 0.5px 5px rgba(0, 0, 0, 0.4);
+    margin-left: 125px;
+
+}

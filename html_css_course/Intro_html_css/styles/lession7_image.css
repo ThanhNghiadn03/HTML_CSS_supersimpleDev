@@ -1,0 +1,17 @@
+.cat-pic {
+    width: 200px;
+    border-radius: 10px;
+}
+.cat-pic1 {
+    width: 135px;
+    height: 135px;
+    object-fit: cover;
+    margin-left: 20px;
+    margin-right: 20px;
+}
+.cat-pic2 {
+    width: 135px;
+    height: 135px;
+    object-fit: cover;
+    border-radius: 50%;
+}
